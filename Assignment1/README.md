@@ -5,8 +5,9 @@
 - `question2/` — student-performance preprocessing, five visualizations, and interpretations
 
 ## Question 1
-Run `Question 1.ipynb from the `question1` directory.
+Run `Question 1.ipynb' from the `question1` directory.
 
 ## Question 2
+Run 'Question 2.ipynb' from the 'question2' 
 The processed dataset and figures are included. The source script contains the preprocessing and visualization workflow.
 
