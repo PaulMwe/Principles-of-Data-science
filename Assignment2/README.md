@@ -3,25 +3,26 @@
 ## Description
 This assignment focuses on data cleaning, data preprocessing, statistical analysis, and bootstrap sampling using Python.
 
+## Repository Structure
+
+The `Notebook` folder contains two Jupyter notebooks:
+
+**Assignment 2 Part 1 – Vehicle**
+   - Missing value handling.
+   - Removing units from numerical columns.
+   - One-hot encoding.
+   - Feature engineering (Car Age).
+   - Data manipulation and summary operations.
+**Assignment 2 Part 2 – Diabetes**
+   - Random sampling of 25 observations.
+   - Glucose sample and population comparison.
+   - 98th percentile of BMI.
+   - Bootstrap sampling (500 samples of 150 observations).
+   - BloodPressure statistical analysis and charts.
+
 ## Datasets
 - `train.csv` – Used-car dataset.
 - `diabetes.csv` – Diabetes dataset containing 768 observations.
-
-## Assignment Contents
-
-### Question 1: Used-Car Data
-- Handle missing values.
-- Remove units from numerical columns.
-- Apply one-hot encoding.
-- Create a new feature (Car Age).
-- Perform data manipulation and summary operations.
-
-### Question 2: Diabetes Data
-- Random sampling of 25 observations.
-- Compare sample and population statistics.
-- Calculate the 98th percentile of BMI.
-- Perform bootstrap sampling (500 samples of 150 observations).
-- Compare BloodPressure statistics using charts.
 
 ## Libraries Used
 - Pandas
@@ -29,13 +30,11 @@ This assignment focuses on data cleaning, data preprocessing, statistical analys
 - Matplotlib
 
 ## How to Run
-1. Download or clone this repository.
-2. Open the Jupyter Notebook.
-3. The CSV files are in Data folder
-4. Make sure both CSV files are in the same folder as the notebook.
+1. Clone or download this repository.
+2. Open the `Notebook` folder.
+3. Open the notebook you want to run.
+4. Make sure the corresponding CSV dataset is available in the correct folder.
 5. Run all cells.
 
 ## Author
-Paul Mwengwe
-
-
+Paul Mwengwe 
